@@ -1,5 +1,3 @@
-
-
 #Q1-
 
 s = 'brijendra'
@@ -234,5 +232,3 @@ arr = [1,2,3,4,5]
 num = int(input())
 arr.append(num)
 print(arr)
-
-s
